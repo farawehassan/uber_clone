@@ -1,6 +1,6 @@
 # Uber Clone
 
-Designing an app like uber for the purpose of learning maps in flutter
+Designing an app like uber using the provider pattern approach for the purpose of learning maps in flutter
 
 ## Getting Started
 
