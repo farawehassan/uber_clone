@@ -1,6 +1,6 @@
-# uberapp
+# Uber Clone
 
-A new Flutter application.
+Designing an app like uber for the purpose of learning maps in flutter
 
 ## Getting Started
 
